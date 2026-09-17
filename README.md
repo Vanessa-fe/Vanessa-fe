@@ -1,7 +1,7 @@
 - i Hi, I’m @Vanessa-fe
 - 👀 I’m interested in pastry, sewing, dancing, camping 
-- 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on on projects that will allow me to evolve and increase my skills in the long term
+- 🌱 I’m dev React.Js
+- 💞️ I’m looking to collaborate on projects that will allow me to evolve and increase my skills in the long term
 - 📫 How to reach me : 📨 van3ssacod3@gmail.com 📞 07 82 42 47 45
 
 <!---
